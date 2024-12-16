@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daniuj0
+- 👋 Hi, I’m Daniela
 - 👀 I’m interested in small projects to test for free, as my focus is on learning and improving my learning.
 - 🌱 I’m currently learning programming logic, javascript and watson assitant
 - ✅ I’m looking to collaborate on q.a test for while
