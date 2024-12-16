@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming logic and javascript and watson assitant
 - 💞️ I’m looking to collaborate on q.a test for while
 - 📫 How to reach me 
-- ⚡ Fun fact: I like testing because I am thorough and focus on the user experience as if I were the user.
+- ⚡ Fun fact: I like testing because I am thorough and focus on the user experience as if I was the user.
 
 <!---
 Daniuj0/Daniuj0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
